@@ -26,13 +26,13 @@
 ### Global Installation (Recommended)
 
 ```bash
-npm install -g nextauth-cli
+npm install -g @callmedaniel/nextauth-cli
 ```
 
 ### Local Installation
 
 ```bash
-npm install --save-dev nextauth-cli
+npm install --save-dev @callmedaniel/nextauth-cli
 ```
 
 ---
@@ -49,7 +49,7 @@ cd my-auth-app
 ### 2. Run the NextAuth CLI
 
 ```bash
-nextauth-cli
+npx @callmedaniel/nextauth-cli
 ```
 
 ### 3. Answer the Interactive Questions
