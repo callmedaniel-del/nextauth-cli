@@ -1,0 +1,32 @@
+{
+  "name": "nextauth-cli",
+  "version": "1.0.0",
+  "description": "🔐 Interactive CLI wizard to scaffold NextAuth.js authentication in seconds",
+  "main": "bin/nextauth-cli.js",
+  "bin": {
+    "nextauth-cli": "bin/nextauth-cli.js"
+  },
+  "scripts": {
+    "start": "node bin/nextauth-cli.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "nextauth",
+    "cli",
+    "next.js",
+    "authentication",
+    "oauth",
+    "scaffolding",
+    "wizard"
+  ],
+  "author": "callmedaniel-del",
+  "license": "MIT",
+  "dependencies": {
+    "inquirer": "^8.2.5",
+    "chalk": "^4.1.2",
+    "ora": "^5.4.1"
+  },
+  "engines": {
+    "node": ">=14.0.0"
+  }
+}
