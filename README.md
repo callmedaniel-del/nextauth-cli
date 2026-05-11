@@ -2,7 +2,7 @@
 
 **Interactive CLI wizard to scaffold NextAuth.js authentication in your Next.js project in seconds!**
 
-[![npm version](https://badge.fury.io/js/nextauth-cli.svg)](https://www.npmjs.com/package/nextauth-cli)
+[![npm version](https://badge.fury.io/js/nextauth-cli.svg)](https://www.npmjs.com/package/@callmedaniel/nextauth-cli)
 [![GitHub license](https://img.shields.io/github/license/callmedaniel-del/nextauth-cli)](https://github.com/callmedaniel-del/nextauth-cli/blob/main/LICENSE)
 
 ---
